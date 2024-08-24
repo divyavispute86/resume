@@ -44,6 +44,6 @@ MSBTE Board – Diploma in Industrial Electronics
 Cascading Style Sheet, Content Management System, E-commerce, eCommerce Software, Git, GitHub, Hypertext Markup Language, JavaScript, JIRA, jQuery, Kanban, Sass, LESS, Magento, Optimizely, Quality Control, Redux, Representational State Transfer, TypeScript, Adobe (AEM), WordPress.
 
 # Download My Resume
-You can download my resume [here](Divya_Vispute_Resume.pdf).
+You can download my resume here: [Divya_Vispute_Resume](https://github.com/divyavispute86/resume/blob/main/Divya_Vispute_Resume.docx)
 
 Feel free to contact me if you have any questions or opportunities.
